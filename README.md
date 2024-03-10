@@ -22,11 +22,11 @@ This work utilizes the Pit dementia corpora. Access to the data is password-prot
 
 ### Available models
 
-####PLM
+#### PLM
 - 'BERT_large', 'BERT_base',  'RoBERTa', 'SBert', 
-####Generative LM
+#### Generative LM
 - 'gpt2', 'gpt2-medium', 'gpt2-large', 'gptneo', 't5-base', 't5-large'
-####Discriminative LM
+#### Discriminative LM
 -'BertCNN','CNN', 'coh_model'
 
 ### Run the models
